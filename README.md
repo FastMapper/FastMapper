@@ -8,7 +8,7 @@ The latest builds can be found at NuGet
 
     PM> Install-Package FastMapper
 
-###Examples
+###Getting Started
 
 ####Mapping to a new object
 
